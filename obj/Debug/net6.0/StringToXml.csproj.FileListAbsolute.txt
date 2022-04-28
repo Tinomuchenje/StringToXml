@@ -1,0 +1,15 @@
+C:\Users\tinomu\Documents\GitHub\StringToXml\bin\Debug\net6.0\StringToXml.exe
+C:\Users\tinomu\Documents\GitHub\StringToXml\bin\Debug\net6.0\StringToXml.deps.json
+C:\Users\tinomu\Documents\GitHub\StringToXml\bin\Debug\net6.0\StringToXml.runtimeconfig.json
+C:\Users\tinomu\Documents\GitHub\StringToXml\bin\Debug\net6.0\StringToXml.dll
+C:\Users\tinomu\Documents\GitHub\StringToXml\bin\Debug\net6.0\StringToXml.pdb
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.csproj.AssemblyReference.cache
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.AssemblyInfoInputs.cache
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.AssemblyInfo.cs
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.csproj.CoreCompileInputs.cache
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.dll
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\refint\StringToXml.dll
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.pdb
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\StringToXml.genruntimeconfig.cache
+C:\Users\tinomu\Documents\GitHub\StringToXml\obj\Debug\net6.0\ref\StringToXml.dll
